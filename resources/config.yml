@@ -1,0 +1,12 @@
+# Time between 2 events in seconds
+timer: 60
+# Rewards commands
+rewards:
+  - "give {player} 1 64"
+# Message broadcasted
+broadcast: "§6§l[§f!!!§6]§r Be the first to find the matching word to win §664 stone §f! Word: §6{word} §f!"
+broadcast_win: "§6§l[§f!!!§6]§r The player §6{player} §fwas the first to find the word §6{word} §f!"
+words:
+  - "minecraft"
+  - "pocketmine"
+  - "microsoft"
