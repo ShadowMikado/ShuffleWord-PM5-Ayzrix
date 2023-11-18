@@ -1,5 +1,7 @@
 name: ShuffleWord-PM5
-author: ShadowMikado
+author: 
+  - Ayzrix
+  - ShadowMikado
 version: 1.0.0
 api: [5.0.0]
 main: ShadowMikado\ShuffleWord\Main
